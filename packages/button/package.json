@@ -1,5 +1,5 @@
 {
-  "name": "zzh-button",
+  "name": "zzh-button1",
   "version": "0.0.1",
   "description": "",
   "main": "index.js",
@@ -11,5 +11,6 @@
   "license": "ISC",
   "dependencies": {
     "lodash": "4"
-  }
+  },
+  "gitHead": "3501493ad09c0c00e831ef54822d9886cd19c1f3"
 }
